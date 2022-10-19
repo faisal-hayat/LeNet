@@ -1,2 +1,3 @@
 # LeNet
-LeNet Implementation
+
+LeNet Implementation for MNIST dataset
